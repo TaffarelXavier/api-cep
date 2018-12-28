@@ -1,13 +1,22 @@
 {
-  "name": "api-cep-logradouro",
+  "name": "api-cep",
   "version": "1.0.0",
-  "description": "Busca CPE por nome de Logradouro",
+  "description": "Busca CEP por nome de Logradouro",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Taffarel Xavier",
+  "author": {
+    "name": "Taffarel Xavier",
+    "email": "taffarel_deus@hotmail.com"
+  },
   "license": "ISC",
-  "repository":"https://github.com/TaffarelXavier/api-cep"
+  "repository": "https://github.com/TaffarelXavier/api-cep",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
 }
