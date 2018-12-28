@@ -1,5 +1,5 @@
 {
-  "name": "api-cep",
+  "name": "apicep",
   "version": "1.0.0",
   "description": "Busca CEP por nome de Logradouro",
   "main": "index.js",
