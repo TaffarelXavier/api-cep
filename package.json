@@ -1,0 +1,13 @@
+{
+  "name": "api-cep-logradouro",
+  "version": "1.0.0",
+  "description": "Busca CPE por nome de Logradouro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taffarel Xavier",
+  "license": "ISC",
+  "repository":"https://github.com/TaffarelXavier/api-cep-logradouro.git"
+}
